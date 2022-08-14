@@ -1,0 +1,6 @@
+[submodule "mk8-secure"]
+	path = mk8-secure
+	url = https://github.com/PretendoNetwork/mk8-secure
+[submodule "mk8-authentication"]
+	path = mk8-authentication
+	url = https://github.com/PretendoNetwork/mk8-authentication
